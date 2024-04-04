@@ -32,4 +32,10 @@ void LinearSearch()
 	char ch;
 	int ctr;		// number of comparisons
 	int item;
+
+	do
+	{
+		// accept the number to be searched
+		cout << "\nenter the element you want to search: ";		// step 1
+	}
 }
